@@ -1,6 +1,5 @@
-# HackQ-Trivia
-Yet another HQ trivia bot, in Python. Automatically scrapes HQ Trivia questions without OCR and answers them.
-
+# Andrew__hobbs forked bot
+A HQ bot with NO OCR
 ## Getting Started
 Requires Python 3.6+
 ### Dependencies
